@@ -57,5 +57,5 @@ I am a third-year student at **FPT University**, passionate about building moder
 ### 📫 Connect with me
 
 * 📧 **Email:** lyhoangson21102005@gmail.com
-* 💼 **LinkedIn:** [linkedin.com/in/lyhoangson](LINK_LINKEDIN_CUA_BAN)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/l%C3%BD-ho%C3%A0ng-s%C6%A1n-undefined-1a71b42a9/
 * 🌐 **Portfolio:** [Your Portfolio Link](LINK_PORTFOLIO_NEU_CO)
