@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Engineer | Frontend Developer
 
-I am a third-year student at **FPT University**, passionate about building modern web applications and exploring Cloud technologies. I focus on writing clean code, optimizing performance, and creating seamless user experiences using **React Ecosystem** and **AWS**.
+I am a third-year student at **FPT University**, passionate about building modern web applications and exploring Cloud technologies. I focus on writing clean code, optimizing performance, and creating seamless user experiences using **MERN Stack** and **AWS**.
 
 ---
 
