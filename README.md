@@ -43,13 +43,6 @@ I am a third-year student at **FPT University**, passionate about building moder
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Son2110&show_icons=true&theme=radical&hide_border=true" alt="Son2110's stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Son2110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
 ---
 
 ### 📫 Connect with me
